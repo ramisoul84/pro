@@ -6,6 +6,10 @@
   margin: 0 auto;
 }
 
+section {
+  width: 100%;
+}
+
 .contact-options {
   display: flex;
   flex-direction: column;
