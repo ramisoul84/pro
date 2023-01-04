@@ -31,7 +31,7 @@ const Projects = () => {
   const projects = data.map((item) => {
     return (
       <div className="project-item">
-        <img src={item.image} className="project-img" />
+        <img src={item.image} alt="project-pic" className="project-img" />
         <h2>{item.title}</h2>
         <div className="project-btns">
           <a href={item.github} download>
