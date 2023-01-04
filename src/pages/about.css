@@ -27,6 +27,9 @@
   color: var(--color-ft-darker);
   text-shadow: 2px 2px 10px var(--color-ft-dark);
 }
+.about-card:last-of-type {
+  margin-bottom: 3rem;
+}
 .about-pic {
   width: 100%;
   padding: 0;

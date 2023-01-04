@@ -67,16 +67,32 @@ const Contact = () => {
             <h5>+7-915-208-50-96</h5>
           </a>
           <article className="contact-option option4">
-            <a href="https://m.me/ramisoul" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/ramisoul84"
+              target="_blank"
+              rel="noreferrer"
+            >
               <BsGithub className="social-icon" />
             </a>
-            <a href="https://m.me/ramisoul" target="_blank" rel="noreferrer">
+            <a
+              href="https://linkedin.com/ramisoul84"
+              target="_blank"
+              rel="noreferrer"
+            >
               <BsLinkedin className="social-icon" />
             </a>
-            <a href="https://m.me/ramisoul" target="_blank" rel="noreferrer">
+            <a
+              href="https://facebook.com/ramisoul84"
+              target="_blank"
+              rel="noreferrer"
+            >
               <BsFacebook className="social-icon" />
             </a>
-            <a href="https://m.me/ramisoul" target="_blank" rel="noreferrer">
+            <a
+              href="https://instagram.com/ramisoul84"
+              target="_blank"
+              rel="noreferrer"
+            >
               <BsInstagram className="social-icon" />
             </a>
           </article>
