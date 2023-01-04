@@ -87,7 +87,7 @@
     grid-template-columns: 1fr;
   }
   .about-card:last-of-type {
-    margin-bottom: 3rem;
+    margin-bottom: 5rem;
   }
 }
 
