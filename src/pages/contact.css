@@ -1,13 +1,10 @@
 .contact-container {
   width: 80vw;
   display: grid;
-  grid-template-columns: 30% 50%;
+  grid-template-columns: 30% 45%;
   gap: 5%;
   margin: 0 auto;
-}
-
-section {
-  width: 100%;
+  overflow-y: hidden;
 }
 
 .contact-options {
@@ -115,6 +112,9 @@ textarea {
 @media screen and (max-width: 600px) {
   .contact-container {
     grid-template-columns: 1fr;
+  }
+  .btn {
+    margin-bottom: 8rem;
   }
 }
 
