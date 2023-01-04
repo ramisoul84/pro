@@ -75,21 +75,21 @@ const Contact = () => {
               <BsGithub className="social-icon" />
             </a>
             <a
-              href="https://linkedin.com/ramisoul84"
+              href="https://linkedin.com/ramisoul"
               target="_blank"
               rel="noreferrer"
             >
               <BsLinkedin className="social-icon" />
             </a>
             <a
-              href="https://facebook.com/ramisoul84"
+              href="https://facebook.com/ramisoul"
               target="_blank"
               rel="noreferrer"
             >
               <BsFacebook className="social-icon" />
             </a>
             <a
-              href="https://instagram.com/ramisoul84"
+              href="https://instagram.com/ramisoul"
               target="_blank"
               rel="noreferrer"
             >
