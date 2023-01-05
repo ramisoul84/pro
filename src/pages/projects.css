@@ -7,13 +7,23 @@
 }
 
 .project-item {
-  border: 1px solid var(--color-ft-dark);
-  padding: 1rem;
+  width: 100%;
+  background-color: transparent;
+  border: 1px solid var(--color-bg-light);
   border-radius: 2rem;
+  text-align: center;
+  transition: var(--transition);
+  padding: 1rem;
+}
+
+.project-item:hover {
+  box-shadow: 1px 1px 10px var(--color-ft-dark);
+  cursor: default;
 }
 
 .project-item .project-img {
   width: 100%;
+  display: block;
   border: 1px solid var(--color-ft-dark);
   border-radius: 2rem;
 }
@@ -32,7 +42,7 @@
 }
 
 .project-btn {
-  width: 150px;
+  width: 6rem;
   background-color: var(--color-bg-light);
   color: var(--color-ft-darker);
   padding: 0.2rem;
